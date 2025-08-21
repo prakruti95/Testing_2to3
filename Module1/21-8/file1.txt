@@ -1,0 +1,13 @@
+Personal details:
+LinkedIn ID -> 
+Insta Id->
+Aadhar card-> front,back
+
+Education details:
+
+Github Account Create
+1) Create File
+2) Upload File
+3) Create Folder
+4) Create File Inside folder
+5) Upload file inside folder
