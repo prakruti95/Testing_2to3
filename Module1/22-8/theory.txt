@@ -1,0 +1,32 @@
+Testing is a process used to identify 
+Correctness,Completeness and Quality 
+of developed Computer Software.
+
+Types of Testing:
+1) Website Testing
+2) MobileApp Testing
+3) Desktop Software Testing
+
+Main type of Testing
+1)Manual Testing
+2)Automation Testing
+
+Document Format images
+HD Format images
+Hike
+
+check form - 100 users
+
+only 1 time - manual testing
+multiple time - automation testing[Programming lan,Tool]
+
+
+
+
+
+
+
+
+
+
+
