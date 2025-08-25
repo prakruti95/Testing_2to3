@@ -1,0 +1,44 @@
+SDLC : Software Development Lifecycle
+STLC : Software Testing Lifecycle
+
+SDLC:
+
+Stages:6
+
+1)Requirement Gathering
+2)Analysis
+3)Design-> web,app
+4)Implementation->coding
+5)Testing
+6)Maintenance-> corrective,adaptive,perfective
+
+
+swiggy:
+1)user
+2)restaurant
+3)Delivery boy
+4)Customer care
+
+
+Requirements:
+1) Functional Requirement:a thing which is practically possible
+
+2) Non Functional Requirement:a thing which is practically not possible
+
+-> Documentation[Language]
+-> Tables
+-> Diagram Format [UML - Unified Modeling Language]
+
+Diagram:
+-> Rfflow
+-> https://app.diagrams.net/
+
+
+
+
+
+
+
+
+
+
