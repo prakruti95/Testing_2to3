@@ -1,0 +1,46 @@
+Software Architecture:
+
+1)Presentation Layer -> Represent Your Data[Design Show][Email Screen][Error]
+
+
+2)Application Layer -> Will Check your business logic
+[Logical Layer]
+[Business Logical Layer]
+
+
+3)Data Layer -> Database
+
+Error ,Bug, Defect
+
+Error  -> A mistake in coding that is called an error
+
+Defect -> a mistake which is found by tester that is called defect 
+
+Bug -> if development will accept about your defect then 
+       it will be converted in bug
+
+Reports:
+1) HLR
+2) Testscenario
+3) Testcase
+4) Defect Report
+
+
+SDLC -> Software development Lifecycle
+
+5-Models
+1)Waterfall Model
+2)Iterative Model
+3)Spiral Model
+4)Agile Model
+5)V-Model
+
+
+
+
+
+
+
+
+
+
