@@ -1,0 +1,51 @@
+1)Error : If developer makes an mistake in coding
+
+2)Defect : If Tester will find that mistake then it's called defect
+
+3)Bug : If Development will accept that defect then it's called bug
+
+4)Failure :build does not meet the requirements then it is
+failure
+
+SDLC:
+
+Waterfall Model
+Iterative
+Spiral
+Agile
+V-Model
+
+Testing:
+1)Validations
+2)Formatting
+
+Reports:
+1)HLR
+2)TestScenario
+3)Testcase
+4)Defect Report
+
+
+STLC:
+1. Requirement Analysis
+2. Test Planning
+3. Test case development
+4. Test Environment setup
+5. Test Execution
+6. Test Cycle closure
+
+Entry Critetia -> Development/Early Testing[Static Testing]
+Exit Criteria -> If Most Error Solved,Budget Exhausted,Dedaline is over etc..
+
+Textfield
+Radiobutton
+datepicker
+Checkbox
+chooser file
+textarea
+dropdown
+
+
+
+
+
