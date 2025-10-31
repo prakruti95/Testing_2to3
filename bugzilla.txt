@@ -1,0 +1,10 @@
+1.
+Your Account - Uday
+
+2.
+sub account
+3 dev -> editbugs
+3 Tester -> admin
+
+3.
+Create Product and sub modules
