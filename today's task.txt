@@ -1,0 +1,10 @@
+-> Write a Scenario of Whatsapp payment
+
+-> Write a Scenario of whatsapp Group (generate group)
+
+-> To create HLR & TestCase of WebBased (WhatsApp web , Instagram) 
+	1. WhatsApp
+	Web : https://web.whatsapp.com
+
+	2.Instagram Web
+	https://www.instagram.com/
