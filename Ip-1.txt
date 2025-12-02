@@ -1,0 +1,63 @@
+Module 1 -> 
+
+What is Testing?
+SDLC
+Models
+7 Key Princi
+When,Why,What -> Testing?
+Software Architecture->
+Manual vs Automation
+OOPS
+SRS
+
+
+
+
+Module 2 ->
+Unit Testing
+Integration Testing
+System Testing
+Acceptance Testing
+Functional Testing
+Non Functional Testing
+Bug Defect Lifecycle
+STLC
+Testscenario
+Testcase
+HLR
+Defect Report
+Agile Testing
+Scrum
+Kanban
+Epic,Story,Task,Bug
+
+
+
+Module 3 & Module 4:
+SQL
+Reponsive Testing
+Cross Browser Testing
+API Testing
+
+
+Module 5:
+
+Selenium
+Manual vs Automation
+Automation
+
+->Tools:
+Bugzilla
+JIRA
+
+
+
+
+
+
+
+
+
+
+
+
